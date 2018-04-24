@@ -1,0 +1,9 @@
+{
+  "name": "heroku_mlab",
+  "version": "",
+  "description": "Heroku and Mlab test",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.16.3"
+  }
+}
